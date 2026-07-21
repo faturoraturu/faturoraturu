@@ -45,10 +45,7 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,css,html,js,java,go,flutter,postgres,dart,matlab,cmake,powershell,)](https://skillicons.dev)
 
 </p>
 
@@ -56,10 +53,7 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Pixhawk-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ArduPilot-EE6C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/FPGA-Spartan--3-00599C?style=for-the-badge"/>
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
 
 </p>
 
@@ -67,11 +61,7 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
-<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,opencv,ubuntu,windows,mysql,ros,lua,pytorch,tensorflow,)](https://skillicons.dev)
 
 </p>
 
