@@ -1,17 +1,117 @@
-<h1 align="center">Hi 👋, I'm fatur</h1>
-<h3 align="center">Computer Engineering Student Focusing on Autonomous Fixed-Wing UAVs, Edge AI, and Embedded Hardware</h3>
+<!-- ========================================= -->
+<!--            GitHub Profile README          -->
+<!-- ========================================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faturoraturu" alt="faturoraturu" /></a> </p>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pathlikur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pathlikur" height="30" width="40" /></a>
-<a href="https://kaggle.com/fatur_ora_turu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatur_ora_turu" height="30" width="40" /></a>
-<a href="https://instagram.com/fatuuurrr._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatuuurrr._" height="30" width="40" /></a>
-<a href="https://discord.gg/hiroyuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hiroyuki" height="30" width="40" /></a>
+# Hi there, I'm Fatur 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Engineering+Student;Autonomous+Fixed-Wing+UAV+Developer;Embedded+Systems+%7C+Edge+AI+%7C+Hardware+Design)](https://git.io/typing-svg)
+
+### Engineering student focusing on autonomous fixed-wing UAVs, edge AI, and embedded hardware design.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently experimenting with **ArduPilot** for autonomous fixed-wing UAV navigation and flight tuning.
+- 🤖 Building **computer vision systems** using **YOLO** and **OpenCV** for autonomous target detection.
+- 🛠️ Designing embedded hardware and PCBs using **KiCad**, while integrating Raspberry Pi with Pixhawk.
+- 📚 Exploring FPGA digital design, embedded Linux, and autonomous robotics systems.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faturoraturu&show_icons=true&locale=en" alt="faturoraturu" /></p>
+# 💻 Tech Stack
+
+## 📝 Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+## ⚙️ Hardware & Embedded
+
+<p>
+
+<img src="https://img.shields.io/badge/Pixhawk-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ArduPilot-EE6C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/FPGA-Spartan--3-00599C?style=for-the-badge"/>
+
+</p>
+
+## 🛠 Tools & Frameworks
+
+<p>
+
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+</p>
+
+---
+
+# 🌟 Highlighted Projects
+
+| | |
+|:---:|:---:|
+| <p align="center"><img src="https://via.placeholder.com/600x320?text=Vision+Based+Cargo+Drop" width="100%"></p><br> **Vision-Based Cargo Drop**<br><br>Autonomous cargo release system using Raspberry Pi, Pixhawk, OpenCV, and YOLO for real-time target detection.<br><br> ![](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square) ![](https://img.shields.io/badge/Pixhawk-black?style=flat-square) ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square) ![](https://img.shields.io/badge/YOLO-blue?style=flat-square)<br><br>🔗 https://github.com/faturoraturu/vision-based-cargo-drop | <p align="center"><img src="https://via.placeholder.com/600x320?text=Autonomous+Fixed-Wing+UAV" width="100%"></p><br> **Autonomous Fixed-Wing UAV (KRTI)**<br><br>Autonomous waypoint navigation with auto takeoff and landing using ArduPilot and Mission Planner.<br><br> ![](https://img.shields.io/badge/ArduPilot-orange?style=flat-square) ![](https://img.shields.io/badge/Pixhawk-black?style=flat-square) ![](https://img.shields.io/badge/MissionPlanner-blue?style=flat-square)<br><br>🔗 https://github.com/faturoraturu/autonomous-fixed-wing-uav |
+| <p align="center"><img src="https://via.placeholder.com/600x320?text=Digital+Voltmeter" width="100%"></p><br> **Hardware Digital Voltmeter**<br><br>Pure hardware digital voltmeter using ADC0804 and ICL7107 without microcontroller implementation.<br><br> ![](https://img.shields.io/badge/ADC0804-darkgreen?style=flat-square) ![](https://img.shields.io/badge/ICL7107-blue?style=flat-square) ![](https://img.shields.io/badge/Hardware-red?style=flat-square)<br><br>🔗 https://github.com/faturoraturu/digital-voltmeter | <p align="center"><img src="https://via.placeholder.com/600x320?text=FPGA+Digital+Logic" width="100%"></p><br> **FPGA Digital Logic Design**<br><br>VHDL implementation of multiplexers, decoders, and digital logic circuits on Spartan-3 FPGA Board.<br><br> ![](https://img.shields.io/badge/VHDL-purple?style=flat-square) ![](https://img.shields.io/badge/FPGA-00599C?style=flat-square) ![](https://img.shields.io/badge/Spartan--3-blue?style=flat-square)<br><br>🔗 https://github.com/faturoraturu/fpga-digital-logic |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=faturoraturu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faturoraturu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faturoraturu&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent autonomous systems where software meets hardware."*
+
+</div>
