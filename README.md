@@ -24,16 +24,9 @@
 ---
 
 ## 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  
+[![My Skills](https://skillicons.dev/icons?i=instagram,twitter,gmail,discord)](https://skillicons.dev)
 
 </p>
 
@@ -42,25 +35,22 @@
 # 💻 Tech Stack
 
 ## 📝 Languages
-
 <p>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,css,html,js,java,go,flutter,postgres,dart,matlab,cmake,powershell,)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,css,html,js,java,go,flutter,postgres,dart,matlab,cmake,powershell&perline=8)](https://skillicons.dev)
 
 </p>
 
 ## ⚙️ Hardware & Embedded
-
 <p>
-
+  
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
 
 </p>
 
 ## 🛠 Tools & Frameworks
-
 <p>
-
+  
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,opencv,ubuntu,windows,mysql,ros,lua,pytorch,tensorflow,)](https://skillicons.dev)
 
 </p>
