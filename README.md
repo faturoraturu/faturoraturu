@@ -6,7 +6,7 @@
 
 # Hi there, I'm Fatur 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Engineering+Student;Autonomous+Fixed-Wing+UAV+Developer;Embedded+Systems+%7C+Edge+AI+%7C+Hardware+Design)](https://git.io/typing-svg)
+
 
 ### Engineering student focusing on autonomous fixed-wing UAVs, edge AI, and embedded hardware design.
 
