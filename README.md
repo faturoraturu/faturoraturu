@@ -2,11 +2,7 @@
 <!--            GitHub Profile README          -->
 <!-- ========================================= -->
 
-<div align="center">
-
-# Hi there, I'm Fatur 👋
-
-
+![faturoraturu](img/me1.jpeg)
 
 ### Engineering student focusing on autonomous fixed-wing UAVs, edge AI, and embedded hardware design.
 
