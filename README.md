@@ -64,11 +64,9 @@
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<p 
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=faturoraturu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faturoraturu&layout=compact&theme=tokyonight&hide_border=true"/>
+ [![Fatur's GitHub stats](https://github-readme-stats.vercel.app/api?username=faturoraturu)](https://github.com/faturoraturu/github-readme-stats)
 
 </p>
 
