@@ -21,8 +21,18 @@
 
 ## Connect with Me
 <p>
-  
-[![My Skills](https://skillicons.dev/icons?i=instagram,twitter,gmail,discord)](https://skillicons.dev)
+
+<a href="https://instagram.com/fatuuurrr._" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+
+<a href="https://x.com/Pathlikur" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+
+<a href="mailto:faturmfatkhur@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+
+<a href="https://discord.gg/1325452136825356299">
+  <img src="https://skillicons.dev/icons?i=discord" />
 
 </p>
 
