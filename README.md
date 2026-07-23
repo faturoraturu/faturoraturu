@@ -53,7 +53,7 @@
 
 ---
 
-# 🌟 Highlighted Projects
+## 🌟 Highlighted Projects
 
 | | |
 |:---:|:---:|
@@ -62,7 +62,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -76,7 +76,7 @@ src="https://github-readme-stats-eta-opal-25.vercel.app/api/top-langs/?username=
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -86,7 +86,7 @@ src="https://github-readme-stats-eta-opal-25.vercel.app/api/top-langs/?username=
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
