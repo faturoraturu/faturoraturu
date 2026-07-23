@@ -64,9 +64,23 @@
 
 # 📊 GitHub Statistics
 
-<p 
+<p align="center">
 
- [![Fatur's GitHub stats](https://github-readme-stats.vercel.app/api?username=faturoraturu)](https://github.com/faturoraturu/github-readme-stats)
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=faturoraturu&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=faturoraturu&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=faturoraturu&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -76,7 +90,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faturoraturu&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faturoraturu&theme=github-compact&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"/>
 
 </p>
 
