@@ -20,20 +20,12 @@
 ---
 
 ## Connect with Me
+
 <p>
-
-<a href="https://instagram.com/fatuuurrr._" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-
-<a href="https://x.com/Pathlikur" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-
-<a href="mailto:faturmfatkhur@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-
-<a href="https://discord.gg/1325452136825356299">
-  <img src="https://skillicons.dev/icons?i=discord" />
-
+  <a href="https://instagram.com/fatuuurrr._" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://x.com/Pathlikur" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:faturmfatkhur@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://discord.gg/1325452136825356299" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 ---
