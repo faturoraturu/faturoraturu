@@ -92,7 +92,7 @@ src="https://github-readme-stats-fatur.vercel.app/api/top-langs/?username=faturo
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faturoraturu&theme=github-compact&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&cache_seconds=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faturoraturu&theme=github-compact&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&t=1"/>
 
 </p>
 
