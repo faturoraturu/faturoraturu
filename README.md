@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently experimenting with **ArduPilot** for autonomous fixed-wing UAV navigation and flight tuning.
-- 🤖 Building **computer vision systems** using **YOLO** and **OpenCV** for autonomous target detection.
-- 🛠️ Designing embedded hardware and PCBs using **KiCad**, while integrating Raspberry Pi with Pixhawk.
-- 📚 Exploring FPGA digital design, embedded Linux, and autonomous robotics systems.
+- Currently experimenting with **ArduPilot** for autonomous fixed-wing UAV navigation.
+- Building **computer vision systems** using **YOLO** and **OpenCV** for autonomous target detection.
+- Designing embedded hardware and PCBs using **KiCad**, while integrating Raspberry Pi with Pixhawk.
+- Exploring FPGA digital design, embedded Linux, and autonomous robotics systems.
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p>
   
 [![My Skills](https://skillicons.dev/icons?i=instagram,twitter,gmail,discord)](https://skillicons.dev)
@@ -28,23 +28,23 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-## 📝 Languages
+## Languages
 <p>
   
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,css,html,js,java,go,flutter,postgres,dart,matlab,cmake,powershell&perline=8)](https://skillicons.dev)
 
 </p>
 
-## ⚙️ Hardware & Embedded
+## Hardware & Embedded
 <p>
   
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
 
 </p>
 
-## 🛠 Tools & Frameworks
+## Tools & Frameworks
 <p>
   
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,opencv,ubuntu,windows,mysql,ros,lua,pytorch,tensorflow,)](https://skillicons.dev)
@@ -53,7 +53,7 @@
 
 ---
 
-## 🌟 Highlighted Projects
+## Highlighted Projects
 
 | | |
 |:---:|:---:|
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## Statistics
 
 <p align="center">
 
@@ -76,7 +76,7 @@ src="https://github-readme-stats-eta-opal-25.vercel.app/api/top-langs/?username=
 
 ---
 
-## 🔥 GitHub Streak
+## Streak
 
 <p align="center">
 
@@ -86,7 +86,7 @@ src="https://github-readme-stats-eta-opal-25.vercel.app/api/top-langs/?username=
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -98,7 +98,7 @@ src="https://github-readme-stats-eta-opal-25.vercel.app/api/top-langs/?username=
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 *"Building intelligent autonomous systems where software meets hardware."*
 
